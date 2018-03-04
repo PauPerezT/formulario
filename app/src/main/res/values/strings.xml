@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="passC">Confirm Password</string>
+    <string name="email">e-mail</string>
+    <string name="genre">Genre</string>
+    <string name="date">Birth date</string>
+    <string name="fem">Female</string>
+    <string name="mas">Male</string>
+    <string name="birthPlace">Birth Place:</string>
+
+
+    <string-array name="cities">
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Monteria</item>
+        <item>Cartagena</item>
+        <item>Pasto</item>
+        <item>Neiva</item>
+        <item>Popayan</item>
+    </string-array>
+
+    <string name="gtCinema">Go to the cinema</string>
+    <string name="pSport">Practice Sports</string>
+    <string name="gtEat">Go to eat</string>
+    <string name="nAbove">To procrastinate
+</string>
+
+    <string name="hobbies">Hobbies</string>
+
+    <string name="etBirthName">Birthdate</string>
+    <string name="pass_not_equal">Passwords are not equal</string>
+    <string name="empty_fields">Please fill in the blanks</string>
+
+
+</resources>

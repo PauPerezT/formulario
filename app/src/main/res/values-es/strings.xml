@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="passC">Confirmar Contraseña</string>
+    <string name="email">e-mail</string>
+    <string name="genre">Genero</string>
+    <string name="fem">Femenino</string>
+    <string name="mas">Masculino</string>
+    <string name="date">Fecha de nacimiento</string>
+
+    <string name="birthPlace">Lugar de nacimiento:</string>
+
+    <string-array name="cities">
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Monteria</item>
+        <item>Cartagena</item>
+        <item>Pasto</item>
+        <item>Neiva</item>
+        <item>Popayan</item>
+    </string-array>
+
+    <string name="gtCinema">Ir al cine</string>
+    <string name="pSport">Practicar deportes</string>
+    <string name="gtEat">Ir a comer</string>
+    <string name="nAbove">Procrastinar</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="etBirthName">Fecha de nacimiento</string>
+    <string name="pass_not_equal">Contraseñas no coinciden</string>
+    <string name="empty_fields">Llene los espacios en blanco</string>
+
+
+</resources>
